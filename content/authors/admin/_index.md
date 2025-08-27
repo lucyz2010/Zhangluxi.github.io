@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 张露曦
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhang Luxi
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Luxi
+last_name: Zhang
 
 # Pronouns (optional)
 pronouns: she/her
