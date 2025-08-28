@@ -1,4 +1,3 @@
-<img width="468" height="111" alt="image" src="https://github.com/user-attachments/assets/343ce30a-4696-464f-af3e-2cb8a7070cab" />---
 # Display name
 title: 张露曦
 
